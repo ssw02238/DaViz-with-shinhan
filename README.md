@@ -186,16 +186,19 @@ $ npm start
 
 ![image](https://user-images.githubusercontent.com/77471673/142109379-989e10a5-4ae6-4823-80b3-433873de5b82.png)
 
+![image](https://user-images.githubusercontent.com/77471673/142112073-f1abee16-23e0-48d5-8e8b-edded684dc64.png)
 
 
 #4. 데이터 분석 - overall
 
-![image-20211117112034537](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20211117112034537.png)
+![image](https://user-images.githubusercontent.com/77471673/142112352-4872dd72-b51c-44f3-a086-a0e5e1220347.png)
+
 
 
 
 #4. 데이터 분석 - column
 
-![image-20211117112050222](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20211117112050222.png)
+![image](https://user-images.githubusercontent.com/77471673/142112796-4c74a242-c19f-4db6-be77-18442aad0aba.png)
+![image](https://user-images.githubusercontent.com/77471673/142113078-1b997e28-2c9a-4cf8-bbcb-88fec40dffee.png)
 
-![image-20211117112104437](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20211117112104437.png)
+![image](https://user-images.githubusercontent.com/77471673/142113318-332e69bc-8aa9-4d56-8c1e-361c594d930a.png)
