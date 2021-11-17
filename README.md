@@ -173,7 +173,7 @@ $ npm start
 
 #1. 데이터 등록 및 리스트 확인 (메인페이지)
 
-![image-20211117111901573](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20211117111901573.png)
+![image](https://user-images.githubusercontent.com/77471673/142108508-51f437b6-8a6a-4722-9188-dbcffdb47834.png)
 
 
 
