@@ -179,11 +179,14 @@ $ npm start
 
 #2. 데이터 등록
 
-![image-20211117111937074](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20211117111937074.png)
+![image](https://user-images.githubusercontent.com/77471673/142108869-0ffe2fd2-cec7-4a15-b1ce-fd535abcdab0.png)
+
 
 #3. 데이터 목록
 
-![image-20211117112000487](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20211117112000487.png)
+![image](https://user-images.githubusercontent.com/77471673/142109379-989e10a5-4ae6-4823-80b3-433873de5b82.png)
+
+
 
 #4. 데이터 분석 - overall
 
